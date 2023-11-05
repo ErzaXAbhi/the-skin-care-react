@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/the-skin-care-react/static/css/main.4f800d78.css",
+    "main.js": "/the-skin-care-react/static/js/main.7cb58ea2.js",
+    "static/js/787.eb882f82.chunk.js": "/the-skin-care-react/static/js/787.eb882f82.chunk.js",
+    "static/media/hero4.jpg": "/the-skin-care-react/static/media/hero4.365a85c896279a2d9fed.jpg",
+    "static/media/about1.jpg": "/the-skin-care-react/static/media/about1.f9f6c4bdd6204eb767bd.jpg",
+    "index.html": "/the-skin-care-react/index.html",
+    "main.4f800d78.css.map": "/the-skin-care-react/static/css/main.4f800d78.css.map",
+    "main.7cb58ea2.js.map": "/the-skin-care-react/static/js/main.7cb58ea2.js.map",
+    "787.eb882f82.chunk.js.map": "/the-skin-care-react/static/js/787.eb882f82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f800d78.css",
+    "static/js/main.7cb58ea2.js"
+  ]
+}
